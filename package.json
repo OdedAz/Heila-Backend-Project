@@ -1,0 +1,25 @@
+{
+  "name": "heila-backend-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdedAz/Heila-Backend-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdedAz/Heila-Backend-Project/issues"
+  },
+  "homepage": "https://github.com/OdedAz/Heila-Backend-Project#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "knex": "^0.95.14",
+    "pg": "^8.7.1",
+    "winston": "^3.3.3"
+  }
+}
